@@ -1,1 +1,1 @@
-# Stressr
+# Stressr - Beginer friendly stress testing tool
